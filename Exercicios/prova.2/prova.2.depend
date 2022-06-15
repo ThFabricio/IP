@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571872949 source:d:\faculdade\faculdade - bcc\introdução a programação\prova.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

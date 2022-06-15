@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569275347 source:e:\faculdade\faculdade - bcc\introdução a computação\numero_primo\main.c
+	<stdio.h>
+	<stdlib.h>
+

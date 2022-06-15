@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570554691 source:d:\faculdade\faculdade - bcc\introdução a programação\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

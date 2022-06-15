@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569279205 source:e:\faculdade\faculdade - bcc\introdução a computação\leitura-e-soma-dos-numeros-impar\main.c
+	<stdio.h>
+	<stdlib.h>
+
